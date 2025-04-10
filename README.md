@@ -1,18 +1,43 @@
-# Tools
+# 🧠 Smart Python Tools
 
-Various tools, scripts and codes developed to simplify manual operations in work and life.
+A curated collection of smart, reusable Python tools built for developers, engineers, and tech enthusiasts.  
+This repo includes scripts and utilities to boost productivity, automate tasks, and solve real-world problems with clean Python code.
 
-## unzipfile.py
- 
-自动读取某文件夹下所有的压缩文件，解压缩然后合并成一个DataFrame返回。可按时间或压缩文件名称排序。   
-Automatically read all zip files under a folder, unzip them and then merge them into a DataFrame to return. Can be sorted by time or zip file name.
+---
 
-## split_csv.py
+## 🚀 Features
 
-将某CSV文件分割成N个较小的文件。   
-Splitting a CSV file into N smaller files.
+- 🔧 Handy command-line utilities
+- 🧪 Built-in testable functions
+- 📁 Organized modular structure
+- 🐍 Pure Python (no unnecessary dependencies)
+- 🛠️ Easy to extend for your own workflows
 
-## fetch_exam_info.py
+---
 
-一个从examtopics网站中提取问题信息、讨论信息的简单脚本。输入讨论网址，print输出到console，可自定义输出到文件或数据库中。   
-A simple script to extract question information, discussion information from the examtopics website. Input discussion URL, use 'print' output to console, can be customized to output to file or database.
+## 🧰 Tools Included
+
+| Tool Name           | Description                                 |
+|---------------------|---------------------------------------------|
+| `url_cleaner.py`    | Cleans and normalizes messy URLs            |
+| `json_compare.py`   | Compares two JSON files deeply              |
+| `csv_sanitizer.py`  | Removes invalid rows & trims columns        |
+| `slugify.py`        | Converts text to URL-safe slugs             |
+| `text_stats.py`     | Analyzes word/char frequencies              |
+<!-- Add more as you build -->
+
+---
+
+## 📦 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/Mayedi007/smart-python-tools.git
+cd smart-python-tools
+
+# (Optional) Create a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Run any tool, for example:
+python tools/text_stats.py example.txt
