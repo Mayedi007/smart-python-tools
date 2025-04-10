@@ -1,6 +1,6 @@
 # 🧠 Smart Python Tools
 
-A curated collection of smart, reusable Python tools built for developers, engineers, and tech enthusiasts.  
+A curated collection of smart, reusable Python tools .
 This repo includes scripts and utilities to boost productivity, automate tasks, and solve real-world problems with clean Python code.
 
 ---
