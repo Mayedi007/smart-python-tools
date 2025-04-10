@@ -1,4 +1,8 @@
 # 🧠 Smart Python Tools
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Stable-brightgreen)
+![Made by Mohamed Ayadi](https://img.shields.io/badge/Made%20By-Mohamed%20Ayadi-blue)
 
 A curated collection of smart, reusable Python tools.  
 This repo includes scripts and utilities to boost productivity, automate tasks, and solve real-world problems with clean Python code.
